@@ -2,11 +2,11 @@
     "name": "darkpurpin",
     "displayName": "DarkPurpin",
     "description": "A light Purple Indigo that is easy on the eyes! ",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "IssunCodes",
     "repository": {
         "type": "git",
-        "url": "https://github.com/issun1677/darkpurpin"   
+        "url": "https://github.com/issun1677/darkpurpin"
     },
     "keywords": [
         "theme",
