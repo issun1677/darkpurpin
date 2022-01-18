@@ -3,11 +3,10 @@
     "displayName": "DarkPurpin",
     "description": "A light Purple Indigo that is easy on the eyes! ",
     "version": "0.0.1",
-    "publisher": "issunCodes",
+    "publisher": "IssunCodes",
     "repository": {
         "type": "git",
-        "url": ""
-        
+        "url": "https://github.com/issun1677/darkpurpin"   
     },
     "engines": {
         "vscode": "^1.63.0"
