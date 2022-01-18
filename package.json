@@ -1,0 +1,27 @@
+{
+    "name": "darkpurpin",
+    "displayName": "DarkPurpin",
+    "description": "A light Purple Indigo that is easy on the eyes! ",
+    "version": "0.0.1",
+    "publisher": "issunCodes",
+    "repository": {
+        "type": "git",
+        "url": ""
+        
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DarkIndigoPurp",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkIndigoPurp-color-theme.json"
+            }
+        ]
+    }
+}
